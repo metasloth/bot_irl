@@ -1,0 +1,28 @@
+{
+  "name": "bot_irl",
+  "version": "0.0.1",
+  "description": "A discord bot for memes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"wow, what a test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metasloth/bot_irl.git"
+  },
+  "author": "Sam Hemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metasloth/bot_irl/issues"
+  },
+  "homepage": "https://github.com/metasloth/bot_irl#readme",
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "discord.js": "^11.2.1",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "node-opus": "^0.2.7",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "snoowrap": "^1.15.1"
+  }
+}

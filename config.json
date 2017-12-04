@@ -1,0 +1,26 @@
+{
+  "replies": [
+    "`here is a spicy meme, bleep bloop:` ",
+    "`༼ つ ◕_◕ ༽つ  TAKE MY MEME ༼ つ ◕_◕ ༽つ` ",
+    "`🤖❤️` ",
+    "`I gotchu fam` "
+  ],
+  "game": "just here for the lolz",
+  "subreddits": [
+    {
+      "url": "https://www.reddit.com/r/me_irl/top/?sort=top&t=hour",
+      "cacheLimit": "10",
+      "weight": "6"
+    },
+    {
+      "url": "https://www.reddit.com/r/BikiniBottomTwitter/top/?sort=top&t=hour",
+      "cacheLimit": "10",
+      "weight": "1"
+    },
+    {
+      "url": "https://www.reddit.com/r/trippinthroughtime",
+      "cacheLimit": "10",
+      "weight": "1"
+    }
+  ]
+}
